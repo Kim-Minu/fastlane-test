@@ -1,8 +1,7 @@
-package fastlane.fastlanetest.Response;
+package fastlane.fastlanetest.response;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.http.HttpStatus;
 
 @Getter
 @Setter
